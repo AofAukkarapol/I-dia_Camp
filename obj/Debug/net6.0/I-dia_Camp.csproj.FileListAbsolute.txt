@@ -1,0 +1,15 @@
+C:\Users\Devas IPASON\Downloads\Coding MDT112\Exam2\I-dia_Camp\bin\Debug\net6.0\I-dia_Camp.exe
+C:\Users\Devas IPASON\Downloads\Coding MDT112\Exam2\I-dia_Camp\bin\Debug\net6.0\I-dia_Camp.deps.json
+C:\Users\Devas IPASON\Downloads\Coding MDT112\Exam2\I-dia_Camp\bin\Debug\net6.0\I-dia_Camp.runtimeconfig.json
+C:\Users\Devas IPASON\Downloads\Coding MDT112\Exam2\I-dia_Camp\bin\Debug\net6.0\I-dia_Camp.dll
+C:\Users\Devas IPASON\Downloads\Coding MDT112\Exam2\I-dia_Camp\bin\Debug\net6.0\I-dia_Camp.pdb
+C:\Users\Devas IPASON\Downloads\Coding MDT112\Exam2\I-dia_Camp\obj\Debug\net6.0\I-dia_Camp.csproj.AssemblyReference.cache
+C:\Users\Devas IPASON\Downloads\Coding MDT112\Exam2\I-dia_Camp\obj\Debug\net6.0\I-dia_Camp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Devas IPASON\Downloads\Coding MDT112\Exam2\I-dia_Camp\obj\Debug\net6.0\I-dia_Camp.AssemblyInfoInputs.cache
+C:\Users\Devas IPASON\Downloads\Coding MDT112\Exam2\I-dia_Camp\obj\Debug\net6.0\I-dia_Camp.AssemblyInfo.cs
+C:\Users\Devas IPASON\Downloads\Coding MDT112\Exam2\I-dia_Camp\obj\Debug\net6.0\I-dia_Camp.csproj.CoreCompileInputs.cache
+C:\Users\Devas IPASON\Downloads\Coding MDT112\Exam2\I-dia_Camp\obj\Debug\net6.0\I-dia_Camp.dll
+C:\Users\Devas IPASON\Downloads\Coding MDT112\Exam2\I-dia_Camp\obj\Debug\net6.0\refint\I-dia_Camp.dll
+C:\Users\Devas IPASON\Downloads\Coding MDT112\Exam2\I-dia_Camp\obj\Debug\net6.0\I-dia_Camp.pdb
+C:\Users\Devas IPASON\Downloads\Coding MDT112\Exam2\I-dia_Camp\obj\Debug\net6.0\I-dia_Camp.genruntimeconfig.cache
+C:\Users\Devas IPASON\Downloads\Coding MDT112\Exam2\I-dia_Camp\obj\Debug\net6.0\ref\I-dia_Camp.dll
